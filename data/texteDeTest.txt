@@ -1,0 +1,7 @@
+Ceci est un
+texte de test pour les different compteur.
+
+Il y a au jour d'aujourd'hui monsieur l'éléphant Robert chante :
+Je m'apelle RoBeRt, monsieur Robert, le grand robert
+et je tape, tape avec mes pattes.
+Et ouais, je suis un elephant.
